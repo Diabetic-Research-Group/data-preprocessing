@@ -9,6 +9,8 @@ Preprocessing codes for diabetes dataset
 
 3. [Diabetes classified training dataset](https://huggingface.co/datasets/rtweera/nhanes-diabetes-classified-training-dataset)
 
+4. [Selected attributes - 386 attributes](https://huggingface.co/datasets/rtweera/nhanes-diabetes-selected-attributes-386)
+
 ## How to use the huggingface datasets above
 
 Say the dataset URL is `https://huggingface.co/datasets/user_name/dataset_name`
