@@ -162,6 +162,9 @@ def main():
         accumulator = pd.read_parquet(tmp_parquet)
         print(f"    Accumulator now: {accumulator.shape[0]} rows x {accumulator.shape[1]} cols", flush=True)
 
+    if accumulator is None:
+        sys.exit("No data merged. Exiting.")
+
     accumulator.to_parquet(out_parquet, index=False)
     
     if csv_opt == "1":
