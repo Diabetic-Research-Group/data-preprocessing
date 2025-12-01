@@ -1,0 +1,20 @@
+[project]
+name = "data-preprocessing"
+version = "0.1.0"
+description = "Data preprocessing for nhanes dataset"
+authors = [
+    {name = "Ravindu Weerasinghe", email = "ravindutharuka2001@gmail.com"},
+    {name="Ann Dinoushka"}
+]
+license = {text = "Apache 2.0"}
+readme = "README.md"
+requires-python = ">=3.13, <4.0"
+dependencies = [
+    "python-dotenv (>=1.2.1,<2.0.0)",
+    "pandas (>=2.3.3,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
