@@ -12,6 +12,8 @@ Preprocessing codes for diabetes dataset
 
 4. [Selected raw attributes v3 - 375 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-selected-raw-attributes-v3)
 
+5. [Feature Engineered dataset - 273 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-feature-engineered)
+
 ## How to use the huggingface datasets above
 
 Say the dataset URL is `https://huggingface.co/datasets/user_name/dataset_name`
