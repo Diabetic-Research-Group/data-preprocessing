@@ -8,9 +8,11 @@ Preprocessing codes for diabetes dataset
 
 2. [Merged dataset](https://www.huggingface.co/datasets/AnnDinoushka/nhanes-training-merged-new)
 
-3. [Diabetes classified dataset](https://huggingface.co/datasets/rtweera/nhanes-dataset-diabetes-classified)
+3. [Diabetes classified dataset - v3](https://huggingface.co/datasets/rtweera/nhanes-dataset-diabetes-classified-v3)
 
-4. [Selected raw attributes - 375 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-selected-raw-attributes)
+4. [Selected raw attributes v3 - 375 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-selected-raw-attributes-v3)
+
+5. [Feature Engineered dataset - 273 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-feature-engineered)
 
 ## How to use the huggingface datasets above
 
@@ -70,3 +72,4 @@ To merge NHANES files, run the following command from the project root directory
 1. [Initial Merged NHANES Dataset](https://huggingface.co/datasets/rtweera/nhanes-training-merged)
 2. [Diabetes classified training dataset](https://huggingface.co/datasets/rtweera/nhanes-diabetes-classified-training-dataset)
 3. [Selected attributes - 386 attributes](https://huggingface.co/datasets/rtweera/nhanes-diabetes-selected-attributes-386)
+4. [Selected raw attributes - 375 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-selected-raw-attributes)
