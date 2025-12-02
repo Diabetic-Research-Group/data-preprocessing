@@ -6,7 +6,7 @@ Preprocessing codes for diabetes dataset
 
 1. [Raw dataset files](https://www.kaggle.com/datasets/nguyenvy/nhanes-19882018)
 
-2. [Merged dataset](https://www.huggingface.co/datasets/AnnDinoushka/nhanes-training-merged-new)
+2. [Merged dataset - v3](https://huggingface.co/datasets/rtweera/nhanes-dataset-diabetes-classified-v3)
 
 3. [Diabetes classified dataset](https://huggingface.co/datasets/rtweera/nhanes-dataset-diabetes-classified)
 
@@ -70,3 +70,4 @@ To merge NHANES files, run the following command from the project root directory
 1. [Initial Merged NHANES Dataset](https://huggingface.co/datasets/rtweera/nhanes-training-merged)
 2. [Diabetes classified training dataset](https://huggingface.co/datasets/rtweera/nhanes-diabetes-classified-training-dataset)
 3. [Selected attributes - 386 attributes](https://huggingface.co/datasets/rtweera/nhanes-diabetes-selected-attributes-386)
+4. [Merged dataset - v2](https://www.huggingface.co/datasets/AnnDinoushka/nhanes-training-merged-new)
