@@ -4,6 +4,8 @@ Preprocessing codes for diabetes dataset
 
 ## Dataset links
 
+### Common
+
 1. [Raw dataset files](https://www.kaggle.com/datasets/nguyenvy/nhanes-19882018)
 
 2. [Merged dataset](https://www.huggingface.co/datasets/AnnDinoushka/nhanes-training-merged-new)
@@ -13,6 +15,18 @@ Preprocessing codes for diabetes dataset
 4. [Selected raw attributes v3 - 375 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-selected-raw-attributes-v3)
 
 5. [Feature Engineered dataset - 273 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-feature-engineered)
+
+### Diabetes prediction
+
+1. [Diabetes prediction leaked removed - selection stage 1 - 240 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-prediction-selection-stage-1)
+
+### Severity classification
+
+1. [Example dataset goes here](https://example.com)
+
+### Treatement recommendation
+
+1. [Example dataset goes here](https://example.com)
 
 ## How to use the huggingface datasets above
 
