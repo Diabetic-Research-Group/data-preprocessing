@@ -16,9 +16,13 @@ Preprocessing codes for diabetes dataset
 
 5. [Feature Engineered dataset - 273 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-feature-engineered)
 
+6. [Datatype corrected and reduced dataset - 74 attributes](https://huggingface.co/datasets/rtweera/nhanes-data-converted)
+
 ### Diabetes prediction
 
 1. [Diabetes prediction leaked removed - selection stage 1 - 240 attributes](https://huggingface.co/datasets/rtweera/nhanes-dataset-prediction-selection-stage-1)
+
+2. [Diabetes prediction leaked removed - selection from reduced dataset - To Be Uploaded](https://example.com)
 
 ### Severity classification
 
