@@ -138,7 +138,7 @@ This script:
 
 - Reads input files from `NHANES_INPUT_DIR`.
 - Loads files that match `*_clean.csv`, `*_clean.xlsx`, or `*_clean.xls`.
-- Excludes helper files (for example dictionary/documentation files) based on filename prefixes.
+- Excludes helper files (e.g., dictionary/documentation files) based on filename prefixes.
 - Standardizes columns to uppercase and validates `SEQN`.
 - Drops fully empty columns.
 - Handles medication files specially by aggregating `RXDDRUG` values by `SEQN`.
